@@ -15,3 +15,11 @@
 .imagem-principal{
     width: 20%;
 }
+.futuro{
+    background-color: brown;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
