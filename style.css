@@ -11,6 +11,11 @@
     align-items: center;
     padding: 24px 0;
 }
+.lista-principal{align-items: center;
+    justify-content: space-around;
+    display: flex;
+
+}
 
 .imagem-principal{
     width: 20%;
