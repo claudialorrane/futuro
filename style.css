@@ -3,10 +3,15 @@
     padding: 0;
 }
 
-header{
+.cabeçalho{
     background-color: black;
     color: snow;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
 }
+
 .imagem-principal{
     width: 20%;
 }
